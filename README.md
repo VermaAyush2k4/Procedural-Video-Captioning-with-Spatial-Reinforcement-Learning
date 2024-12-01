@@ -49,7 +49,7 @@ b)Unknown words are replaced with a default <unk> token.
 
 ## 3) System Architecture :
 
-<img width="422" alt="systemarchitecture" src="https://github.com/user-attachments/assets/a96cf98c-94c4-4c70-b665-3d70e1812cee">
+![cv drawio (1)](https://github.com/user-attachments/assets/7a8514b0-4e4a-4728-9b0e-86d3dddfe0d0)
 
 ## 4)Training :
 
@@ -81,3 +81,5 @@ d)Save model weights every 10 epochs.
 a)Calculate and plot validation loss at the end of each epoch.
 
 b)Loss progression is saved as images in /kaggle/working/loss_imgs.
+
+
