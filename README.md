@@ -101,3 +101,10 @@ The evaluation includes the following metrics:
 ### ROUGE (Recall-Oriented Understudy for Gisting Evaluation):
 
             Measures recall-based overlap of unigrams, bigrams, and longest common subsequences.
+
+# Results and analysis :
+
+<img width="335" alt="output12" src="https://github.com/user-attachments/assets/77f99692-cd4c-4389-bcb5-c89375e1df81">
+
+
+![WhatsApp Image 2024-11-14 at 3 17 25 PM](https://github.com/user-attachments/assets/22312887-e266-41ce-8451-e88fc4f4f8e4)
