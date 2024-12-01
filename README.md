@@ -108,3 +108,7 @@ The evaluation includes the following metrics:
 
 
 ![WhatsApp Image 2024-11-14 at 3 17 25 PM](https://github.com/user-attachments/assets/22312887-e266-41ce-8451-e88fc4f4f8e4)
+
+# Running the code:
+
+Just opne ipynb file in kaggle and download MSVD Dataset.Open that in kaggle as well and run in kaggle
