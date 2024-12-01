@@ -82,14 +82,14 @@ b)Loss progression is saved as images in /kaggle/working/loss_imgs.
 
 ## 5) Evaluation :
 
-### A) BLEU Scores:
+### BLEU Scores:
 
-a)Compute individual BLEU scores for each generated caption.
-b)Calculate an average BLEU score for the entire corpus.
+            a)Compute individual BLEU scores for each generated caption.
+            b)Calculate an average BLEU score for the entire corpus.
 
-### B) ROUGE Scores:
+### ROUGE Scores:
 
-Evaluate overlap-based similarity (ROUGE-1, ROUGE-2, ROUGE-L) between generated and reference captions.
+            Evaluate overlap-based similarity (ROUGE-1, ROUGE-2, ROUGE-L) between generated and reference captions.
 
 ## 6) Metrices:
 
